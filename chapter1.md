@@ -62,3 +62,31 @@ xp: 100
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 7c5ac8717c
+xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+Ex().has_output("Hello")
+```
